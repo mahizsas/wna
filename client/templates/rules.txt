@@ -1,0 +1,5 @@
+- you must put all jade files you wish to compile into the associated "dev/jade" folder
+- files will only compile "upward" which means once it hits prod there is no more compile step
+- do not change folder names "dev" or "prod"
+- do not change subfolder names "html" or "jade"
+- in order to use as a directive, the filename must be lowercase without special characters

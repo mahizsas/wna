@@ -1,0 +1,3 @@
+- if you wish to develop in someone else's file in a different format, first run the compile step, then copy the file over to "dev/[YOUR LANGUAGE OF CHOICE]"; remember to compile again before committing your changes
+- don't edit someone else's file if it is sitting in the dev folder
+- get 30 minutes of exercise a day, try to smile and laugh, and remember it's always 5 o'clock somewhere

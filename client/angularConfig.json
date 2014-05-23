@@ -1,0 +1,5 @@
+{
+	"template_language": "html",
+	"env": "dev",
+	"home_page": "welcome"
+}

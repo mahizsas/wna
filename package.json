@@ -1,0 +1,14 @@
+{
+  "name": "naes",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "~3.2.6",
+    "jade": "~0.31.2",
+    "elastic.js": "~1.1.1",
+    "uglify-js": "~2.4.13", 
+    "request": "~2.30.0",
+    "underscore": "~1.5.2",
+    "supervisor": "~0.6"
+  }
+}

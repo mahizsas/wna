@@ -1,0 +1,4 @@
+- access control happens only at the page level (templates can be loaded at-will)
+- the rest of the page is access-controlled via API calls (i.e. a blank template can be loaded without auth but the data that goes on the page cannot be loaded without auth)
+- pages define everything, e.g. header, nav, body, footer
+- pages make healthy use of directives (which subsequently load from templates directory)

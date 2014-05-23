@@ -1,0 +1,10 @@
+heroku login
+# you will be prompted for an accepted email/password (heroku account)
+# git remote add [REPO] git@heroku.com:[REPO].git
+# git add . -a # adds all recent changes
+# git commit -m "change description" # stages your code for push
+# git push heroku master # pushes the code to the heroku server
+
+### initializing the heroku server
+
+# heroku ps:scale web=1

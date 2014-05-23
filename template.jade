@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+html(data-framework="angularjs")
+  head
+    meta(charset='utf8')
+  body
+    block body
+      div(id="response-message") !{JSON.stringify(response)}
+      div(class="body")
+      script(src='js/lib/jquery.js')
+      script(src='/js/nvd3-master/lib/d3.v3.js')
+      script(src='/js/nvd3-master/lib/fisheye.js')
+      script(src='/js/nvd3-master/nv.d3.js')
+      script(src='js/lib/angular.min.js')
+      script(src='js/main.js')
+      
+      div(id="app-scripts")

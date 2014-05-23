@@ -1,0 +1,1 @@
+-- if updating package.json file here, update it in the root directory as well

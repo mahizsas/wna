@@ -1,0 +1,6 @@
+{
+	"admin": "0",
+	"developer": "1",
+	"customer": "2",
+	"serviceperson": "3"
+}

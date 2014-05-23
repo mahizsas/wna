@@ -1,0 +1,5 @@
+- modules.json must include any file used with "angular.module", this is because angular wants all of the modules fully defined before it bootstraps
+- includes.json is CSS and JavaScript (no angular.module!)
+- pages.json is for pages (different than templates, pages run against auth-check), pages must use HTML (unless we implement a compile function for pages)
+- templates.json is for snippets and anything listed in templates is automatically available as a directive, DO NOT USE EXISTING HTML TAGS AS DIRECTIVE NAME, e.g. "header"
+- angularConfig.json specifies overall application configuration, for now it just defines if the application is loading jade or html by default and what environment the application is configured for (dev|prod)

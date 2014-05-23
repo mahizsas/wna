@@ -1,0 +1,11 @@
+{
+	"css": [
+		"/css/app.css",
+		"/css/bootstrap.css",
+		"/css/style.css",
+		"/css/elusive-webfont.css",
+		"/js/nvd3-master/nv.d3.css"
+	],
+	"javascript": [
+	]
+}
